@@ -124,5 +124,3 @@ All rights to the original content belong to the author and publisher.
 This repository is intended strictly for **educational and personal learning purposes**.
 
 ---
-
-✨ **Happy Coding! Keep Learning, Keep Building.**
